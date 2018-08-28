@@ -1,0 +1,21 @@
+.ffmc-font {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.ffmc-hero {
+  background: url('../img/bg.jpg') !important;
+  padding: 0 !important;
+  font-family: inherit !important;
+}
+
+.ffmc-hero-cover {
+  background: rgba(0, 0, 0, 0.6);
+  min-height: inherit;
+  padding: 10px;
+  margin: 0;
+}
+
+.ffmc-btn {
+  background: #ff5400 !important; 
+  font-weight: 400 !important;
+}
