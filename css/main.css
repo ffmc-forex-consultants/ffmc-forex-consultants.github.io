@@ -19,3 +19,8 @@
   background: #ff5400 !important; 
   font-weight: 400 !important;
 }
+
+.ffmc-menu-icon {
+  float: left !important;
+  margin-right: 15px !important;
+}
